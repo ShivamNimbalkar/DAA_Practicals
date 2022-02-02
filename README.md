@@ -1,2 +1,2 @@
-# DAA_Practicals
-Practicals
+ML Notes
+ML practical 
